@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Goal-Seek-Application/1.0.0": {
+        "runtime": {
+          "Goal-Seek-Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Goal-Seek-Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
