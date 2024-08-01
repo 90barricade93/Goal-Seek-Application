@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Goal-Seek-Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7036300b959a47ee034ed374dcb4e8e9455effd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7193492ba45bf4a7e4995d5996de3af8d21264b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Goal-Seek-Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Goal-Seek-Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
