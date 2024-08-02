@@ -91,7 +91,7 @@ class Program
 
                 double optimalBudget = GoalSeeker.FindOptimalBudget(budgets, targetAdIndex, totalBudget, agencyFeePercentage, thirdPartyToolFeePercentage, fixedAgencyHoursCost);
                 AnsiConsole.MarkupLine($"\nThe optimal budget for the specific ad is: [bold green]€{optimalBudget:F2}[/]");
-                AnsiConsole.MarkupLine("\n[bold yellow]Thank you for using this optimization tool.'![/]");
+                AnsiConsole.MarkupLine("\n[bold yellow]Thank you for using this optimization tool.![/]");
                 AnsiConsole.MarkupLine("[bold]Press [green]<Spacebar>[/] for a new calculation or [red]<Esc>[/] to exit.[/]");
 
                 while (true)
@@ -111,7 +111,7 @@ class Program
             catch (Exception ex)
             {
                 AnsiConsole.MarkupLine($"[bold red]Error:[/] {ex.Message}");
-                AnsiConsole.MarkupLine("[bold]Press any key to restart the 'application'.[/]");
+                AnsiConsole.MarkupLine("[bold]Press any key to restart the tool.[/]");
                 Console.ReadKey(true);
             }
         } while (true);
