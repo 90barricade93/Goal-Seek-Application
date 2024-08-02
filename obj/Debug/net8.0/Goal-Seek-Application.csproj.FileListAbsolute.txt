@@ -3,11 +3,14 @@
 /home/barricade_dev/CODE/Goal-Seek-Application/bin/Debug/net8.0/Goal-Seek-Application.runtimeconfig.json
 /home/barricade_dev/CODE/Goal-Seek-Application/bin/Debug/net8.0/Goal-Seek-Application.dll
 /home/barricade_dev/CODE/Goal-Seek-Application/bin/Debug/net8.0/Goal-Seek-Application.pdb
+/home/barricade_dev/CODE/Goal-Seek-Application/bin/Debug/net8.0/Spectre.Console.dll
+/home/barricade_dev/CODE/Goal-Seek-Application/obj/Debug/net8.0/Goal-Seek-Application.csproj.AssemblyReference.cache
 /home/barricade_dev/CODE/Goal-Seek-Application/obj/Debug/net8.0/Goal-Seek-Application.GeneratedMSBuildEditorConfig.editorconfig
 /home/barricade_dev/CODE/Goal-Seek-Application/obj/Debug/net8.0/Goal-Seek-Application.AssemblyInfoInputs.cache
 /home/barricade_dev/CODE/Goal-Seek-Application/obj/Debug/net8.0/Goal-Seek-Application.AssemblyInfo.cs
 /home/barricade_dev/CODE/Goal-Seek-Application/obj/Debug/net8.0/Goal-Seek-Application.csproj.CoreCompileInputs.cache
 /home/barricade_dev/CODE/Goal-Seek-Application/obj/Debug/net8.0/Goal-Seek-Application.sourcelink.json
+/home/barricade_dev/CODE/Goal-Seek-Application/obj/Debug/net8.0/Goal-See.F81817F3.Up2Date
 /home/barricade_dev/CODE/Goal-Seek-Application/obj/Debug/net8.0/Goal-Seek-Application.dll
 /home/barricade_dev/CODE/Goal-Seek-Application/obj/Debug/net8.0/refint/Goal-Seek-Application.dll
 /home/barricade_dev/CODE/Goal-Seek-Application/obj/Debug/net8.0/Goal-Seek-Application.pdb

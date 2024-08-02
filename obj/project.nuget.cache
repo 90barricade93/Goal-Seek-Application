@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8HejLFVALVo=",
+  "dgSpecHash": "BXS1ektvqic=",
   "success": true,
   "projectFilePath": "/home/barricade_dev/CODE/Goal-Seek-Application/Goal-Seek-Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/barricade_dev/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512"
+  ],
   "logs": []
 }

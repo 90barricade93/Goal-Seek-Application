@@ -20,12 +20,7 @@ public static class GoalSeeker
 {
     public static double CalculateTotalBudget(double[] adBudgets, double agencyFeePercentage, double thirdPartyToolFeePercentage, double fixedAgencyHoursCost)
     {
-        double totalAdSpend = 0;
-        foreach (var adBudget in adBudgets)
-        {
-            totalAdSpend += adBudget;
-        }
-
+        double totalAdSpend = adBudgets.Sum();
         double agencyFee = totalAdSpend * agencyFeePercentage;
         double thirdPartyToolFee = totalAdSpend * thirdPartyToolFeePercentage;
 
