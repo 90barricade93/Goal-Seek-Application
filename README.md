@@ -41,6 +41,19 @@ dotnet run
 ### 5. Follow the in-app instructions
 The optmizing tool will guide you through the process of inputting.
 
+## Test cases
+
+CASE 1:
+<div style="margin-top:5%;" align="center">
+<img src="case 1.png" height="400">
+</div>
+
+CASE 2:
+<div style="margin-top:5%;" align="center">
+<img src="case 2.png" height="400">
+</div>
+
+
 ## Final words
 The optimal budget for the specific ad can go negative in certain scenarios. This can happen when the agency fee, third-party tool fee, and fixed cost for agency hours exceed the total campaign budget. In such cases, the tool is indicating that the specific ad should not be allocated any budget to achieve the highest possible total revenue.
 
