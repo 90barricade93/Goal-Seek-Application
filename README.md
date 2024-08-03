@@ -41,6 +41,11 @@ dotnet run
 ### 5. Follow the in-app instructions
 The optmizing tool will guide you through the process of inputting.
 
+## Final words
+The optimal budget for the specific ad can go negative in certain scenarios. This can happen when the agency fee, third-party tool fee, and fixed cost for agency hours exceed the total campaign budget. In such cases, the tool is indicating that the specific ad should not be allocated any budget to achieve the highest possible total revenue.
+
+It is important to note that this is a simplified optimization tool and may not take into account all the complexities of a real-world campaign. It is always a good practice to review the results and consider other factors before making final decisions on budget allocation.
+
 ## Thank you for visiting my repository!
 I appreciate your time and interest in my project. If you have any feedback or suggestions, please feel free to reach out. I’m always eager to learn and improve!
 
