@@ -4,13 +4,17 @@
 </div>
 <div align="center">
 
-[![Latest Release](https://img.shields.io/badge/Latest%20Version-0.2.0-blue?logo=github)](https://github.com/90barricade93/Goal-Seek-Application/commits/main)
+[![Latest Release](https://img.shields.io/badge/Latest%20Version-0.3.0-blue?logo=github)](https://github.com/90barricade93/Goal-Seek-Application/commits/main)
 </div>
 
 ## Overview  
-Note: As a beginner in C#, my GUI for the challenge is simple, but I've added some nice features using Spectre.Console to improve the console experience.
-
 This is a simple console application that uses a Goal Seek approach to find the budget for a specific ad that fits a desired total budget. 
+
+Note: As a beginner in C#, I will keep the GUI for the challenge simple.
+
+## This project uses the following dependency:
+
+- [Spectre.Console 0.49.1](https://github.com/spectreconsole/spectre.console) - A library that makes it easier to create beautiful console applications.
 
 ## Running the Application
 
@@ -37,7 +41,8 @@ dotnet run
 ### 5. Follow the in-app instructions
 The optmizing tool will guide you through the process of inputting.
 
-### Thank you for visiting my repository!
+## Thank you for visiting my repository!
+I appreciate your time and interest in my project. If you have any feedback or suggestions, please feel free to reach out. I’m always eager to learn and improve!
 
 -------
 <div align="center">
